@@ -1,0 +1,16 @@
+PODS:
+  - RoundedViews (1.0.2)
+
+DEPENDENCIES:
+  - RoundedViews (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - RoundedViews
+
+SPEC CHECKSUMS:
+  RoundedViews: c15945e567972d09b8af6edbb36bd877e0ed4e07
+
+PODFILE CHECKSUM: ce245245dcb56180b6f539e91b3d123d8a17255e
+
+COCOAPODS: 1.8.4
